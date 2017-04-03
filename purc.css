@@ -1,0 +1,10 @@
+li {
+	text-decoration: none;
+	display: inline-block;
+	margin: 0 7px;
+	font-size: 1.55em;
+	background-color: #ce2029;
+	border-style: dashed;
+}
+
+/*I have had trouble with getting the links at te top after findimg out how to on the first page, also i couldn't make a border at the very top. */

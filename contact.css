@@ -1,0 +1,48 @@
+/*Contact.css*/
+ title {
+	text-align: center;
+}
+
+/*unvisited link*/
+a:link {
+	color:#000;
+}
+
+/*Visited*/
+a:visited {
+	color: #fff;
+}
+
+/*hovering*/
+a:hover {
+	color: #000;
+}
+
+/* selected*/
+a:active {
+	color:#fff;
+}
+
+li {
+	text-decoration: none;
+	display: inline-block;
+	margin: 0 7px;
+	font-size: 1.55em;
+	background-color: #ce2029;
+	border-style: dashed;
+}
+
+h1 {
+	color: #FB8C00 ;
+	text-align: center;
+}
+
+p {
+	color: #F44336;
+	text-align: center;
+}
+
+h2  {
+	color: #FB8C00;
+	text-align: center;
+}
